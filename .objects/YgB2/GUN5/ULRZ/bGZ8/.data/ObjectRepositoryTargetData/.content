@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5La63dYwaEuVTh_7BZ4t8g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="web.whatsapp.com" DesignTimeRectangle="223, 549, 635, 108" DesignTimeScaleFactor="1.5" FuzzySelectorArgument="&lt;webctrl type='' class='_ak8l' parentid='pane-side' tag='DIV' aaname='' check:innerText='WhatsApp Automation Testing&amp;#xA;Yesterday&amp;#xA;You&amp;#xA;: &amp;#xA;I&amp;apos;m a bot. This is a test message, please ignore this.' /&gt;" Guid="215d9fb1-9a2e-4ce8-9ddc-c9cbabfada2c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='(122) WhatsApp' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="dd2bd2f9-7297-489e-88ee-5b2fda886545" CvTextArea="219, 576, 352, 30" CvTextArgument="WhatsApp Automation Testing" CvType="Text" DesignTimeRectangle="223, 570, 528, 34" FuzzySelectorArgument="&lt;webctrl aaname='App Automation Testing' parentid='pane-side' tag='SPAN' type='' class='x1iyjqo2 x6ikm8r x10wlt62 x1n2onr6 xlyipyv xuxw1ft x1rg5ohu _ao3e' check:innerText='WhatsApp Automation Testing' /&gt;" Guid="d88fd263-ddf4-4985-979b-ce51d4d48580" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="da6beb08462c217ebdc08b2fe62a4094.png" xmlns="">03r4RusGpkk2P8N2-FkMvOA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

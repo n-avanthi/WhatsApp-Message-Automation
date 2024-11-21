@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hoN4jiSU7kKQBZtDOEfWmw" Reference="GpZfytjjj0q9B1aD7fj4vg/uKBlyYMOkESbG45lhYjItA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="web.whatsapp.com" CVScreenId="c1354f05-dcf7-49ae-a65f-7efca1d7cf97" CvElementArea="1046, 1060, 789, 66" CvType="InputBox" DesignTimeRectangle="1044, 1062, 790, 62" DesignTimeScaleFactor="1.5" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;footer&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;div' parentid='main' tabindex='-1' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' parentid='main' tabindex='-1' tag='DIV' class='x9f619 x12lumcd x1qrby5j xeuugli xisnujt x6prxxf x1fcty0u x1fc57z9 xe7vic5 x1716072 xgde2yp x89wmna xbjl0o0 x13fuv20 xu3j5b3 x1q0q8m5 x26u7qi x178xt8z xm81vs4 xso031l xy80clv x1lq5wgf xgqcy7u x30kzoy x9jhf4c x1a2a7pz x13w7htt x78zum5 x96k8nx xdvlbce x1ye3gou xn6708d x1ok221b xu06os2 x1i64zmx x1emribx' aaname='' check:innerText='Type a message' /&gt;" Guid="13150ca1-2c9e-4f08-b29c-87c7a4c7b5a2" ScopeSelectorArgument="&lt;html app='chrome.exe' omit:title='(123) WhatsApp' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="02c4bd78e9aee88007dfa5a5d422d85d.png" xmlns="">0nW4fbiLWm0WwDP5qg6SlgA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

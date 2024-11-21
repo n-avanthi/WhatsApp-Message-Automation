@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Type a message",
+  "Type": "Element",
+  "Id": "uKBlyYMOkESbG45lhYjItA",
+  "Reference": "GpZfytjjj0q9B1aD7fj4vg/uKBlyYMOkESbG45lhYjItA",
+  "ParentRef": "GpZfytjjj0q9B1aD7fj4vg/ULRZBLJbW027jYmt7PfPVA",
+  "Created": "2024-11-18T03:30:57.5172233Z",
+  "Updated": "2024-11-18T03:30:57.5172233Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

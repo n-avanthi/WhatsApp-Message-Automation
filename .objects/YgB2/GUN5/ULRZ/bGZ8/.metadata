@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Element 'WhatsApp Automation Tes…'",
+  "Type": "Element",
+  "Id": "bGZ8P9dEkUOS2R7buCkhpw",
+  "Reference": "GpZfytjjj0q9B1aD7fj4vg/bGZ8P9dEkUOS2R7buCkhpw",
+  "ParentRef": "GpZfytjjj0q9B1aD7fj4vg/ULRZBLJbW027jYmt7PfPVA",
+  "Created": "2024-11-18T04:11:04.6080502Z",
+  "Updated": "2024-11-18T04:11:04.6080502Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
